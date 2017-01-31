@@ -4,7 +4,11 @@ using System.Text;
 
 namespace TVSanguosha
 {
-    public class Player
+    public interface IPackage
     {
+        Card[] Cards
+        {
+            get;
+        }
     }
 }

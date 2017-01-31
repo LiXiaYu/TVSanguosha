@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TVSanguosha
 {
-    class Card
+    public class Card
     {
     }
 }
